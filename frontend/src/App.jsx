@@ -1,9 +1,9 @@
 
-import Home from "./components/Home";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Add from "./components/Add";
 //Write missing code here
+import Home from "./components/Home";
+import Add from "./components/Add";
 
 function App() {
   return (
